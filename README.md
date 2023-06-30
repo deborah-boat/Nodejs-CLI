@@ -6,7 +6,7 @@ Open new terminal .
 Install the dependencies by running the following command:
 
 
-Run CLI application using #npm start
+Run CLI application using npm start
 
 
 Select users or post
